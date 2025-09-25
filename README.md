@@ -109,16 +109,9 @@ You'll start your adventure in **Bourgpalette** town, free to explore and discov
 
 ## 👨‍💻 Credits
 
-**Development Team:**
-- Adam Terrak
-- Ayman Ouguerd
-- Abdelah El Harsal
-
-## 📧 Contact
-
-- contact@adamterrak.me
-- aymanouguerd@gmail.com
-- abdelah.elharsal@gmail.com
+<a href="https://github.com/NayJi7/c-pokemon/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=NayJi7/c-pokemon" />
+</a>
 
 ---
 
